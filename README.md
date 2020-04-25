@@ -1,5 +1,5 @@
 # IndeedScraper
-## Powered by Ruby ![](ruby.jpg =100x) (and pure laziness)
+## Powered by Ruby ![](ruby.png) (and pure laziness)
 
 ### Purpose:
 - Look up the number of jobs available based on programming language
