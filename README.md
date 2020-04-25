@@ -7,4 +7,4 @@
 - Print the results in a readable, table format
 
 ### Result:
-[!alt text](results.png)
+![](results.png?raw=true)
